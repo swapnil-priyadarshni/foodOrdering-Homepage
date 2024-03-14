@@ -1,0 +1,25 @@
+/* Navigation  */
+#navbar{
+    flex-direction: column;
+}
+
+/* Hone section  */
+#home{
+height: 280px ;
+ flex-direction: column;
+}
+
+/* services section  */
+#services{
+flex-direction: column;
+}
+#services .box{
+
+}
+
+/* clients section  */
+#clients{
+overflow: hidden;
+}
+
+/* contact section  */
